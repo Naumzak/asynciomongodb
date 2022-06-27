@@ -1,0 +1,7 @@
+POST http://localhost:8080/do_find_many/
+Content-Type: application/json
+
+{"db": "shopdb",
+"collections": "products"}
+
+###
